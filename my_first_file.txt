@@ -2,10 +2,14 @@ This is my firs file
 
 git init (Hanya sekali di awal untuk buat folder .git)
 git remote add origin https://github.com (Hubungkan ke GitHub)
+
+--Upload File
 git add . (Menaruh semua file ke "pintu" siap simpan)
 git commit -m "pesan anda" (Simpan permanen di laptop)
 git push origin main (Kirim ke GitHub)
+ 
 
+ -- Update Editan
 Stage (git add): Klik tanda (+) pada file berstatus M agar siap dikirim.
 Commit (git commit): Masukkan pesan (misal: "update isi file") dan klik centang/commit untuk mengunci perubahan di laptop.
 Push (git push): Klik Sync Changes atau Push untuk mengirim perubahan tersebut ke website GitHub.
