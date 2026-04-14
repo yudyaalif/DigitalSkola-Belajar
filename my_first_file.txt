@@ -2,6 +2,7 @@ This is my firs file
 
 git init (Hanya sekali di awal untuk buat folder .git)
 git remote add origin https://github.com (Hubungkan ke GitHub)
+git checkout origin/main
 
 --Upload File
 git add . (Menaruh semua file ke "pintu" siap simpan)
